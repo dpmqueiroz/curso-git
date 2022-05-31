@@ -1,7 +1,7 @@
 <?php
 
     public class setarCampos(){
-		return 2+3;
+		return 23+3;
 	}
 	
 ?>
